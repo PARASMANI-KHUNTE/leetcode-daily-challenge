@@ -32,7 +32,7 @@ To run the solutions, you will need Python installed on your machine. You can do
 
 1. Clone this repository to your local machine:
     ```bash
-    git clone https://github.com/parasmanikhunte/leetcode-daily-challenge.git
+    git clone https://github.com/PARASMANI-KHUNTE/leetcode-daily-challenge.git
     ```
 2. Navigate to the directory:
     ```bash
